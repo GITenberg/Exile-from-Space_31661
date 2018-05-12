@@ -1,0 +1,28 @@
+_repo: Exile-from-Space_31661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merril, Judith
+    alias: Grossman, Josephine Juliet
+    birthdate: 1923
+    deathdate: 1997
+    gutenberg_agent_id: '35388'
+    url: http://www.gutenberg.org/2009/agents/35388
+    wikipedia: https://en.wikipedia.org/wiki/Judith_Merril
+description: ''
+gutenberg_issued: '2010-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Exile from Space
+url: http://www.gutenberg.org/ebooks/31661
